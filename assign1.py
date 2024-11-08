@@ -1,3 +1,6 @@
+#Added these new lines of code to learn git and github
+
+
 from statistics import mode
 n = int(input("Enter the number of students"))
 marks = []
